@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="captcha">resolva a equação assima seu robo:</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="seguros_xpto">Seguros XPTO</string>
+    <string name="servicos">Serviços</string>
+    <string name="automoveis">Autómoveis</string>
+    <string name="imoveis">Imóveis</string>
+    <string name="need_help">Precisa de ajuda?</string>
+    <string name="data_validation">Informe seus dados!</string>
+
+</resources>
